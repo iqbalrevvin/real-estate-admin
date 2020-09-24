@@ -29,7 +29,7 @@
                     <i class="icon_mail"></i>
                     <div class="info-text">
                         <span>Email:</span>
-                        <p>1<small>606049@sttgarut.ac.id</small></p>
+                        <p><small>1606049@sttgarut.ac.id</small></p>
                     </div>
                 </li>
             </ul>
