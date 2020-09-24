@@ -15,21 +15,21 @@
                     <i class="icon_phone"></i>
                     <div class="info-text">
                         <span>Phone:</span>
-                        <p>(+12) 345 6789</p>
+                        <p>088291839789</p>
                     </div>
                 </li>
                 <li>
                     <i class="icon_map"></i>
                     <div class="info-text">
                         <span>Address:</span>
-                        <p>16 Creek Ave, <span>NY</span></p>
+                        <p>Jl. Pembangunan<br>Tarogong Kidul<br>Garut</p>
                     </div>
                 </li>
                 <li>
                     <i class="icon_mail"></i>
                     <div class="info-text">
                         <span>Email:</span>
-                        <p>Info.cololib@gmail.com</p>
+                        <p>1<small>606049@sttgarut.ac.id</small></p>
                     </div>
                 </li>
             </ul>
