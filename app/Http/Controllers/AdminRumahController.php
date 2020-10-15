@@ -61,7 +61,7 @@
 			$this->form[] = ['label'=>'Foto 3','name'=>'foto_3','type'=>'upload','validation'=>'image','width'=>'col-sm-10'];
 			$this->form[] = ['label'=>'Foto 4','name'=>'foto_4','type'=>'upload','validation'=>'image','width'=>'col-sm-10'];
 			$this->form[] = ['label'=>'Foto 5','name'=>'foto_5','type'=>'upload','validation'=>'image','width'=>'col-sm-10'];
-			$this->form[] = ['label'=>'Link Maps','name'=>'link_maps','type'=>'text','validation'=>'min:1|max:255','width'=>'col-sm-10'];
+			$this->form[] = ['label'=>'Link Maps','name'=>'link_maps','type'=>'textarea','validation'=>'min:1','width'=>'col-sm-10'];
 			$this->form[] = ['label'=>'Deskripsi','name'=>'deskripsi','type'=>'textarea','width'=>'col-sm-10'];
 			$this->form[] = ['label'=>'Status','name'=>'status','type'=>'select','validation'=>'min:1|max:255','width'=>'col-sm-10','dataenum'=>'Aktif;Nonaktif'];
 			# END FORM DO NOT REMOVE THIS LINE
